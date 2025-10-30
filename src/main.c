@@ -22,6 +22,7 @@ int main(void) {
     return -1;
   }
 
+  //Exemple request body
   const char *body = "{"
                      "\"device\": \"UUID\","
                      "\"time\": \"<time>\","
